@@ -1,0 +1,25 @@
+{
+  "name": "blazor-toolkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TKatra/Blazor-Toolkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TKatra/Blazor-Toolkit/issues"
+  },
+  "homepage": "https://github.com/TKatra/Blazor-Toolkit#readme",
+  "devDependencies": {
+    "sass": "^1.107.0"
+  }
+}
